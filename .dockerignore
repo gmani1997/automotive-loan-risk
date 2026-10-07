@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+loanenv/
+venv/
+.env
+
+# Git
+.git/
+.gitignore
+
+# Large datasets
+data/
+
+# Notebooks
+notebooks/
+
+# Streamlit - deployed separately later
+streamlit_app/
+
+# Local files
+*.log
+.vscode/

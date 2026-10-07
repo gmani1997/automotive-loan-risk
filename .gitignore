@@ -1,0 +1,29 @@
+# Virtual environment
+loanenv/
+venv/
+.venv/
+
+# Environment variables / secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
+
+# Data files
+data/raw/
+data/processed/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
+models/random_forest.joblib
